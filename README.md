@@ -13,10 +13,7 @@ prendere decisioni informate.
 
 ## Autori
 
-- Michele Antonio Annunziata - [micheleantonioannunziata](https://github.com/micheleantonioannunziata)
-- Raffaele Coppola - [Raff2812](https://github.com/Raff2812)
-- Domenico Cirillo - [DomenicoDC25](https://github.com/DomenicoDC25)
-- Luigi Auriemma - [LuigiAuriemma](https://github.com/LuigiAuriemma)
+- Ferdinando Ranieri - [Kubes03](https://github.com/Kubes03)
 
 ## Struttura del progetto  
 
@@ -48,7 +45,7 @@ Una volta installate le dipendenze, esegui la pipeline di pre-elaborazione dei d
 Vai nella cartella scripts/pipeline e lancia lo script.
 
 ```bash
-python scripts/pipeline/carval-pipeline.py
+python scripts/pipeline/carval_pipeline.py
 ```
 
 ### 3. Avvio dell'interfaccia utente
